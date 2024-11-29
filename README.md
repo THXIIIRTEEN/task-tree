@@ -16,6 +16,7 @@
 - TypeScript
 - SСSS
 - ESLint
+- Vite
 
 ## Начало работы
 
